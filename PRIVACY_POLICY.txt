@@ -1,0 +1,118 @@
+PRIVACY POLICY - CAMI BUL (FIND A MOSQUE)
+
+Last Updated: February 22, 2026
+
+INTRODUCTION
+
+Cami Bul ("Find a Mosque" in English) is a mobile application that helps users find nearby mosques, view prayer times, access Islamic content, and determine the Qibla direction. This Privacy Policy explains how we collect, use, and protect your information.
+
+INFORMATION WE COLLECT
+
+1. LOCATION DATA
+We collect your GPS coordinates to:
+- Show you nearby mosques
+- Calculate distances to prayer places
+- Provide prayer times for your location
+- Determine the Qibla direction
+
+Your location is NOT stored on our servers. Processing happens only on your device.
+
+2. USER PREFERENCES
+We store your preferences locally on your device:
+- Language selection (Turkish, English, Arabic, Malay, Hindi, Indonesian)
+- Font size settings
+- Light/Dark mode preference
+- These are stored only on your device using SharedPreferences
+
+3. THIRD-PARTY API DATA
+We query Overpass API (openstreetmap.org) to retrieve:
+- Mosque names, locations, and addresses
+- Data is automatically cached for 20 minutes locally
+
+4. DEVICE SENSORS
+- Your device's compass is used to calculate prayer direction
+- All calculations happen on your device only
+
+HOW WE USE YOUR INFORMATION
+
+Your information is used to:
+- Find and display nearby mosques
+- Calculate distances to prayer places
+- Provide accurate prayer times
+- Show prayer direction (Qibla)
+- Store your user preferences
+- Improve app performance and fix technical issues
+
+DATA SHARING
+
+- We share location coordinates ONLY with Overpass API (OpenStreetMap) to retrieve mosque information
+- We do NOT share data with any other third parties
+- We do NOT sell your data
+- We do NOT use analytics or tracking services
+
+SECURITY & STORAGE
+
+- All preferences stored locally on your device
+- Communications with Overpass API use HTTPS encryption
+- Your location data is never stored on any server
+- Data is accessible only on your device
+
+PERMISSIONS
+
+The app requires these permissions:
+- ACCESS_FINE_LOCATION: For precise GPS location
+- ACCESS_COARSE_LOCATION: For approximate location if precise not available
+- INTERNET: To connect to Overpass API
+
+YOUR PRIVACY RIGHTS
+
+You can:
+- View what preferences are stored (all on your device)
+- Delete all data by uninstalling the app
+- Control location permissions in device settings
+- Deny location permission to stop location features
+
+To manage permissions:
+Android: Settings > Apps > Cami Bul > Permissions
+iOS: Settings > Privacy > Location Services
+
+DATA RETENTION
+
+- User Preferences: Until you uninstall the app
+- Location Data: Never stored
+- Cached Mosque Data: Deleted after 20 minutes
+- API Queries: Not logged by us
+
+CHILDREN
+
+This app does not knowingly collect data from children under 13. If we discover this has occurred, we will delete the information immediately.
+
+CHANGES TO PRIVACY POLICY
+
+We may update this policy. Material changes will be announced in the app. Your continued use means you accept the new policy.
+
+CONTACT US
+
+Questions about privacy?
+Email: privacy@camiapp.com
+App: Cami Bul / Find a Mosque
+
+LEGAL BASIS
+
+This policy complies with:
+- GDPR (EU)
+- Turkish Personal Data Protection Law (KVKK)
+- Google Play Store Requirements
+- Apple App Store Requirements
+
+PRIVACY FEATURES SUMMARY
+
+✓ No account required
+✓ No user tracking
+✓ No analytics
+✓ Data processed locally
+✓ Easy permission control
+✓ Simple data deletion
+
+Effective Date: February 22, 2026
+Version: 1.0
